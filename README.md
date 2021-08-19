@@ -1,4 +1,35 @@
 # AuditCourse_Assignment2
+In this assignment we have used HTML and CSS to demonstrate components such  properties for text styling, text alignment, animations using css, Table styling,Image slicing ,etc.
+CSS Properties:
+1. background-color
+
+2. background-image
+
+3. margin
+
+4. padding
+
+5. text-align
+
+6. text-decoration
+
+7. border
+
+8. border-style
+
+9. text-shadow
+
+10. animation-duration
+
+11. animation-iterative-count
+
+12. text-shadow
+
+13. font-style
+
+14.text-decoration
+
+15.writing-mode
 Content:
 1.Align and write Properties:
 ![align_and_write](https://user-images.githubusercontent.com/55869458/130051913-edcaffd7-5dff-42b1-bc69-f9323d9203a9.PNG)
